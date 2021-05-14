@@ -1,7 +1,7 @@
 //DisplayerApp.java
 import javax.swing.JOptionPane;
 /**
-    @author: Vuyolwethu Mabhuleka
+    @aut
     @version: 1.0
 */
 public class DisplayerApp{
