@@ -5,7 +5,7 @@ import javax.swing.*;
     @version: 1.0
 */
 public class DisplayerApp{
-    public static void main(Strings [] args)
+    public static void main(String [] args)
     {
         JOptionPane.showMessageDialog(null, "Programming is Fun!");
         System.exit(0);
